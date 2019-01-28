@@ -28,3 +28,11 @@ h1{
 	border-bottom: groove;
 
 }
+.btn-outline-secondary{
+	margin: 0px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border-bottom: groove;
+}
